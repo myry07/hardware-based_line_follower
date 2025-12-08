@@ -1,0 +1,167 @@
+Added Component: Designator=B1(RS08U11AZ001)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.alps.com/prod/info/E/PDF/Potentiometer/SlidePotentiometers/RS__1/RS__1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RS08U11AZ001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-RS08U11AZ001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RS08U11AZ001?qs=3cOf6TWd2rbi6KBi5o1XVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0402)
+Added Component: Designator=C2(C0402)
+Added Component: Designator=C3(C0402)
+Added Component: Designator=Q1(SOT-23_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "SS8550-Y2"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "SS8550-Y2"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0402)
+Added Component: Designator=R2(R0402)
+Added Component: Designator=R3(R0402)
+Added Component: Designator=R4(R0402)
+Added Component: Designator=R5(R0402)
+Added Component: Designator=R6(R0402)
+Added Component: Designator=R7(R0402)
+Added Component: Designator=R8(R0402)
+Added Component: Designator=R9(R0402)
+Added Component: Designator=R10(R0402)
+Added Component: Designator=R11(R0402)
+Added Component: Designator=U1(OPTO-SMD_QRE1113GR)
+Add component (AddParameter): Name = "Symbol"; Value = "QRE1113GR"; VariantName = "[No Variations]"
+Added Component: Designator=U2(OPTO-SMD_QRE1113GR)
+Add component (AddParameter): Name = "Symbol"; Value = "QRE1113GR"; VariantName = "[No Variations]"
+Added Component: Designator=U3(HDR-TH_2P-P2.54-V-M-3)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520PZ2.54-1x2P%2520ZZ/34444548.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x2P ??:2.54mm ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C32713268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-1X2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U4(HDR-TH_2P-P2.54-V-M-3)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520PZ2.54-1x2P%2520ZZ/34444548.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x2P ??:2.54mm ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C32713268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-1X2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U5(LM393)
+Add component (AddParameter): Name = "Symbol"; Value = "LM393DR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FSM_OUT1 Pin=R9-1
+Added Pin To Net: NetName=FSM_OUT1 Pin=U4-1
+Added Net: Name=FSM_OUT1
+Added Pin To Net: NetName=FSM_OUT2 Pin=R10-1
+Added Pin To Net: NetName=FSM_OUT2 Pin=U4-2
+Added Net: Name=FSM_OUT2
+Added Pin To Net: NetName=GND Pin=B1-G1
+Added Pin To Net: NetName=GND Pin=B1-G2
+Added Pin To Net: NetName=GND Pin=B1-T2
+Added Pin To Net: NetName=GND Pin=B1-T3
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_T1 Pin=B1-T1
+Added Pin To Net: NetName=NetB1_T1 Pin=R9-2
+Added Pin To Net: NetName=NetB1_T1 Pin=U5-2
+Added Pin To Net: NetName=NetB1_T1 Pin=U5-5
+Added Net: Name=NetB1_T1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=U2-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R7-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R6-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R8-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U5-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U5-7
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R11-2
+Added Pin To Net: NetName=NetR10_2 Pin=U5-3
+Added Pin To Net: NetName=NetR10_2 Pin=U5-6
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=S1_OUT Pin=R2-1
+Added Pin To Net: NetName=S1_OUT Pin=U3-1
+Added Net: Name=S1_OUT
+Added Pin To Net: NetName=S2_OUT Pin=R4-1
+Added Pin To Net: NetName=S2_OUT Pin=U3-2
+Added Net: Name=S2_OUT
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=Q2-3
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=U5-8
+Added Net: Name=VCC
+Added Class: Name=FSM
+Added Class: Name=OpAmp
+Added Class: Name=Sensor
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

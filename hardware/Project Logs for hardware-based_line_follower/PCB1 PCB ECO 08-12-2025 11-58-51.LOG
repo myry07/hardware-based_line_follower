@@ -1,0 +1,78 @@
+Added Component: Designator=SW1(SW-SMD_SK-3245S-L4-A)
+Add component (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "Rectangular column"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/150604CD043E0D261356905071EFEC5D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SK-3245S-L4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??4mm ???? ????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life"; Value = "10,000 times"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connection(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SK-3245S-L4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Horizontal attachment"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C500049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SK-3245S-L4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMDSplicing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.55mm"; VariantName = "[No Variations]"
+Added Component: Designator=U6(CONN-TH_2P-P5.08-WJ500V-5.08-2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20241106/B65BE8431F64096104C016AC2C83CE18.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??  P=5.08mm 2P ??? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KANGNEX(??????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42377752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Added Component: Designator=U7(CONN-TH_2P-P5.08-WJ500V-5.08-2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20241106/B65BE8431F64096104C016AC2C83CE18.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??  P=5.08mm 2P ??? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KANGNEX(??????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42377752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Added Component: Designator=U8(CONN-TH_2P-P5.08-WJ500V-5.08-2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20241106/B65BE8431F64096104C016AC2C83CE18.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??  P=5.08mm 2P ??? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KANGNEX(??????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42377752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WJ500V-5.08-2P-13-00A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=NetQ2_2 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_2 Pin=U6-1
+Added Net: Name=NetSW1_2
+Added Member To Class: ClassName=OpAmp Member=Component SW1 SK-3245S-L4-A
+Added Member To Class: ClassName=OpAmp Member=Component U6 WJ500V-5.08-2P-13-00A
+Added Member To Class: ClassName=OpAmp Member=Component U7 WJ500V-5.08-2P-13-00A
+Added Member To Class: ClassName=OpAmp Member=Component U8 WJ500V-5.08-2P-13-00A
