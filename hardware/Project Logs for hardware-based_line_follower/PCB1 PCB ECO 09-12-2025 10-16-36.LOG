@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Change Component Footprint: Designator=U6 Old Footprint=CONN-TH_2P-P5.08-WJ500V-5.08-2P New Footprint=CONN-TH_DB125-2.54-2P-GN
+Change Component Footprint: Designator=U7 Old Footprint=CONN-TH_2P-P5.08-WJ500V-5.08-2P New Footprint=CONN-TH_DB125-2.54-2P-GN
+Change Component Footprint: Designator=U8 Old Footprint=CONN-TH_2P-P5.08-WJ500V-5.08-2P New Footprint=CONN-TH_DB125-2.54-2P-GN
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Pin To Net: NetName=VCC Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=U6-2
+Added Net: Name=NetSW1_1

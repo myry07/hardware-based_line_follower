@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=VPS_IN Pin=U6-2
+Change Component Footprint: Designator=U6 Old Footprint=CONN-TH_DB125-2.54-2P-GN New Footprint=HDR-TH_2P-P2.54-V-M-3
+Change Component Comment : Designator=U6 Old Comment=WJ500V-5.08-2P-13-00A New Comment=HX PZ2.54-1x2P ZZ
+Change component parameters: Designator = "U6" ("U6"); Footprint = "CONN-TH_DB125-2.54-2P-GN"; UniqueID = "\TQZSFHCH\BGFGKQTA" ("\TQZSFHCH\BGFGKQTA")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Pin Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520PZ2.54-1x2P%2520ZZ/34444548.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "1x2P ??:2.54mm ?? ??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C32713268"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-1X2P ZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VPS_IN Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2

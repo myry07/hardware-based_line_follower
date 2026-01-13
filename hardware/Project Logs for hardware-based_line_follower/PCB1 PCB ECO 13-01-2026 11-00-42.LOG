@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=S3_OUT Pin=H1-1
+Added Member To Class: ClassName=POWER Member=Component C7 10uF
+Added Member To Class: ClassName=POWER Member=Component LED1 KT-0603G
+Added Member To Class: ClassName=Sensor Member=Component R12 220O
+Added Member To Class: ClassName=POWER Member=Component U11 IP5306
