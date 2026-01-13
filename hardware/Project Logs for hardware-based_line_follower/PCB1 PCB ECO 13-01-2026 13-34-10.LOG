@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=B1-G1
+Removed Pin From Net: NetName=GND Pin=B1-G2
+Removed Pin From Net: NetName=GND Pin=B1-T2
+Removed Pin From Net: NetName=GND Pin=B1-T3
+Removed Pin From Net: NetName=VCC_SYS Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC_SYS Pin=Q1-3
+Removed Pin From Net: NetName=VCC_SYS Pin=Q2-3
+Removed Pin From Net: NetName=VCC_SYS Pin=R5-2
+Removed Pin From Net: NetName=VCC_SYS Pin=R6-2
+Removed Pin From Net: NetName=FSM_OUT1 Pin=R9-1
+Removed Pin From Net: NetName=FSM_OUT2 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=S3_OUT Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=VCC_SYS Pin=U5-8
+Removed Member From Class: ClassName=OpAmp Member=B1
+Removed Member From Class: ClassName=OpAmp Member=C3
+Removed Member From Class: ClassName=OpAmp Member=R9
+Removed Member From Class: ClassName=OpAmp Member=R10
+Removed Member From Class: ClassName=OpAmp Member=R11
+Removed Member From Class: ClassName=OpAmp Member=U5
+Change Component Designator: OldDesignator=U6 NewDesignator=U?
+Added Pin To Net: NetName=FSM_OUT2 Pin=R8-1
+Add Net: Net with name "S3_OUT" already exists
+Add Net: Net with name "VCC_SYS" already exists

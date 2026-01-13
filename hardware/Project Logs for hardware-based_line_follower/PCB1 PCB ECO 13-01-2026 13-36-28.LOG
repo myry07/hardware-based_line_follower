@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=FSM_OUT1 Pin=R7-1
+Added Pin To Net: NetName=S3_OUT Pin=R12-1
+Add Net: Net with name "VCC_SYS" already exists
